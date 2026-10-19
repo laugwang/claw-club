@@ -4,7 +4,11 @@
 
 ## 開始使用
 
-開啟 `index.html`，或使用本儲存庫的 GitHub Pages 網站。
+開啟 `index.html`，或使用公開網站：https://laugwang.github.io/claw-club/
+
+原始碼：https://github.com/laugwang/claw-club
+
+公開網址已通過 16 組 Edge 瀏覽器主流程檢查，JavaScript 頁面執行錯誤為 0。
 
 1. 輸入暱稱建立本機體驗會員。
 2. 每日簽到、完成任務並手動領取獎勵。
